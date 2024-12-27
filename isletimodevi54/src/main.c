@@ -1,3 +1,7 @@
+/*Hüdanur Duranoğlu
+Tunahan Özdemir 
+Melih Eröz
+Emir Furkan Aslan*/
 #include "shell.h"
 #include "pipe.h"
 #include "background.h"
